@@ -1,0 +1,791 @@
+[
+    {
+        "label": "runpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "runpy",
+        "description": "runpy",
+        "detail": "runpy",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "pformat",
+        "importPath": "pprint",
+        "description": "pprint",
+        "isExtraImport": true,
+        "detail": "pprint",
+        "documentation": {}
+    },
+    {
+        "label": "jmespath",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "jmespath",
+        "description": "jmespath",
+        "detail": "jmespath",
+        "documentation": {}
+    },
+    {
+        "label": "exceptions",
+        "importPath": "jmespath",
+        "description": "jmespath",
+        "isExtraImport": true,
+        "detail": "jmespath",
+        "documentation": {}
+    },
+    {
+        "label": "containers",
+        "importPath": "dependency_injector",
+        "description": "dependency_injector",
+        "isExtraImport": true,
+        "detail": "dependency_injector",
+        "documentation": {}
+    },
+    {
+        "label": "providers",
+        "importPath": "dependency_injector",
+        "description": "dependency_injector",
+        "isExtraImport": true,
+        "detail": "dependency_injector",
+        "documentation": {}
+    },
+    {
+        "label": "sqlalchemy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "MetaData",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "registry",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "declared_attr",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "scoped_session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "clear_mappers",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "clear_mappers",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "field",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "field",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "typing",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "typing",
+        "description": "typing",
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TYPE_CHECKING",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "contextmanager",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "async_scoped_session",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "create_async_engine",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "Annotated",
+        "importPath": "typing_extensions",
+        "description": "typing_extensions",
+        "isExtraImport": true,
+        "detail": "typing_extensions",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "Provide",
+        "importPath": "dependency_injector.wiring",
+        "description": "dependency_injector.wiring",
+        "isExtraImport": true,
+        "detail": "dependency_injector.wiring",
+        "documentation": {}
+    },
+    {
+        "label": "inject",
+        "importPath": "dependency_injector.wiring",
+        "description": "dependency_injector.wiring",
+        "isExtraImport": true,
+        "detail": "dependency_injector.wiring",
+        "documentation": {}
+    },
+    {
+        "label": "EntityType",
+        "importPath": "tetroweb.shared_kernel.domain.entity",
+        "description": "tetroweb.shared_kernel.domain.entity",
+        "isExtraImport": true,
+        "detail": "tetroweb.shared_kernel.domain.entity",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "pytest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytest",
+        "description": "pytest",
+        "detail": "pytest",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "tetroweb.shared_kernel.infra.database.sqla.base",
+        "description": "tetroweb.shared_kernel.infra.database.sqla.base",
+        "isExtraImport": true,
+        "detail": "tetroweb.shared_kernel.infra.database.sqla.base",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "tetroweb.shared_kernel.infra.database.sqla.base",
+        "description": "tetroweb.shared_kernel.infra.database.sqla.base",
+        "isExtraImport": true,
+        "detail": "tetroweb.shared_kernel.infra.database.sqla.base",
+        "documentation": {}
+    },
+    {
+        "label": "RDBRepository",
+        "importPath": "tetroweb.shared_kernel.infra.database.sqla.repository",
+        "description": "tetroweb.shared_kernel.infra.database.sqla.repository",
+        "isExtraImport": true,
+        "detail": "tetroweb.shared_kernel.infra.database.sqla.repository",
+        "documentation": {}
+    },
+    {
+        "label": "py",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "py",
+        "description": "py",
+        "detail": "py",
+        "documentation": {}
+    },
+    {
+        "label": "pytest_asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytest_asyncio",
+        "description": "pytest_asyncio",
+        "detail": "pytest_asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"tetroweb-shared-kernel-infra-database-sqla\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.13/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"tetroweb-shared-kernel-infra-database-sqla\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.13/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"tetroweb-shared-kernel-infra-database-sqla\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.13/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"tetroweb-shared-kernel-infra-database-sqla\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.13/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = \"tetroweb-shared-kernel-infra-database-sqla\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.13/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"../lib/python3.13/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": ".venv.bin.jp",
+        "description": ".venv.bin.jp",
+        "peekOfCode": "def main():\n    parser = argparse.ArgumentParser()\n    parser.add_argument('expression')\n    parser.add_argument('-f', '--filename',\n                        help=('The filename containing the input data.  '\n                              'If a filename is not given then data is '\n                              'read from stdin.'))\n    parser.add_argument('--ast', action='store_true',\n                        help=('Pretty print the AST, do not search the data.'))\n    args = parser.parse_args()",
+        "detail": ".venv.bin.jp",
+        "documentation": {}
+    },
+    {
+        "label": "SqlaContainer",
+        "kind": 6,
+        "importPath": "src.tetroweb.shared_kernel.infra.database.sqla.container.di",
+        "description": "src.tetroweb.shared_kernel.infra.database.sqla.container.di",
+        "peekOfCode": "class SqlaContainer(containers.DeclarativeContainer):\n    settings = providers.Resource(DatabaseSettings)  # type: ignore\n    db = providers.Singleton(SyncDatabase, settings=settings)",
+        "detail": "src.tetroweb.shared_kernel.infra.database.sqla.container.di",
+        "documentation": {}
+    },
+    {
+        "label": "TableNamePrefixMixin",
+        "kind": 6,
+        "importPath": "src.tetroweb.shared_kernel.infra.database.sqla.base",
+        "description": "src.tetroweb.shared_kernel.infra.database.sqla.base",
+        "peekOfCode": "class TableNamePrefixMixin:\n    @staticmethod\n    def camel_to_snake(name: str) -> str:\n        s1 = re.sub(\"(.)([A-Z][a-z]+)\", r\"\\1_\\2\", name)\n        return re.sub(\"([a-z0-9])([A-Z])\", r\"\\1_\\2\", s1).lower()\n    @declared_attr\n    def __tablename__(self) -> str:\n        return f\"tetroweb_{self.camel_to_snake(self.__name__.lower())}\"\nBase = declarative_base(metadata=metadata)",
+        "detail": "src.tetroweb.shared_kernel.infra.database.sqla.base",
+        "documentation": {}
+    },
+    {
+        "label": "metadata",
+        "kind": 5,
+        "importPath": "src.tetroweb.shared_kernel.infra.database.sqla.base",
+        "description": "src.tetroweb.shared_kernel.infra.database.sqla.base",
+        "peekOfCode": "metadata = MetaData()\nreg = registry(metadata=metadata)\nclass TableNamePrefixMixin:\n    @staticmethod\n    def camel_to_snake(name: str) -> str:\n        s1 = re.sub(\"(.)([A-Z][a-z]+)\", r\"\\1_\\2\", name)\n        return re.sub(\"([a-z0-9])([A-Z])\", r\"\\1_\\2\", s1).lower()\n    @declared_attr\n    def __tablename__(self) -> str:\n        return f\"tetroweb_{self.camel_to_snake(self.__name__.lower())}\"",
+        "detail": "src.tetroweb.shared_kernel.infra.database.sqla.base",
+        "documentation": {}
+    },
+    {
+        "label": "reg",
+        "kind": 5,
+        "importPath": "src.tetroweb.shared_kernel.infra.database.sqla.base",
+        "description": "src.tetroweb.shared_kernel.infra.database.sqla.base",
+        "peekOfCode": "reg = registry(metadata=metadata)\nclass TableNamePrefixMixin:\n    @staticmethod\n    def camel_to_snake(name: str) -> str:\n        s1 = re.sub(\"(.)([A-Z][a-z]+)\", r\"\\1_\\2\", name)\n        return re.sub(\"([a-z0-9])([A-Z])\", r\"\\1_\\2\", s1).lower()\n    @declared_attr\n    def __tablename__(self) -> str:\n        return f\"tetroweb_{self.camel_to_snake(self.__name__.lower())}\"\nBase = declarative_base(metadata=metadata)",
+        "detail": "src.tetroweb.shared_kernel.infra.database.sqla.base",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "src.tetroweb.shared_kernel.infra.database.sqla.base",
+        "description": "src.tetroweb.shared_kernel.infra.database.sqla.base",
+        "peekOfCode": "Base = declarative_base(metadata=metadata)",
+        "detail": "src.tetroweb.shared_kernel.infra.database.sqla.base",
+        "documentation": {}
+    },
+    {
+        "label": "SyncDatabase",
+        "kind": 6,
+        "importPath": "src.tetroweb.shared_kernel.infra.database.sqla.connection",
+        "description": "src.tetroweb.shared_kernel.infra.database.sqla.connection",
+        "peekOfCode": "class SyncDatabase:\n    engine: Engine = field(init=False, repr=False)\n    session_factory: sessionmaker = field(init=False, repr=False)\n    settings: \"DatabaseSettings\" = field(init=True, repr=False)\n    def __post_init__(self) -> None:\n        url = self.settings.url\n        echo = self.settings.echo\n        engine = create_engine(url, echo=echo)\n        self.engine = engine\n        self.session_factory = sessionmaker(",
+        "detail": "src.tetroweb.shared_kernel.infra.database.sqla.connection",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "src.tetroweb.shared_kernel.infra.database.sqla.connection",
+        "description": "src.tetroweb.shared_kernel.infra.database.sqla.connection",
+        "peekOfCode": "logger = logging.getLogger(\"tetroweb.database.sqla\")\nAsyncSessions = Annotated[\n    Union[AsyncSession, async_scoped_session], \"SQLA AsyncSession\"\n]\nSessions = Annotated[Union[Session, scoped_session], \"SQLA Session\"]\n@dataclass(init=True, kw_only=True, slots=True)\nclass SyncDatabase:\n    engine: Engine = field(init=False, repr=False)\n    session_factory: sessionmaker = field(init=False, repr=False)\n    settings: \"DatabaseSettings\" = field(init=True, repr=False)",
+        "detail": "src.tetroweb.shared_kernel.infra.database.sqla.connection",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSessions",
+        "kind": 5,
+        "importPath": "src.tetroweb.shared_kernel.infra.database.sqla.connection",
+        "description": "src.tetroweb.shared_kernel.infra.database.sqla.connection",
+        "peekOfCode": "AsyncSessions = Annotated[\n    Union[AsyncSession, async_scoped_session], \"SQLA AsyncSession\"\n]\nSessions = Annotated[Union[Session, scoped_session], \"SQLA Session\"]\n@dataclass(init=True, kw_only=True, slots=True)\nclass SyncDatabase:\n    engine: Engine = field(init=False, repr=False)\n    session_factory: sessionmaker = field(init=False, repr=False)\n    settings: \"DatabaseSettings\" = field(init=True, repr=False)\n    def __post_init__(self) -> None:",
+        "detail": "src.tetroweb.shared_kernel.infra.database.sqla.connection",
+        "documentation": {}
+    },
+    {
+        "label": "Sessions",
+        "kind": 5,
+        "importPath": "src.tetroweb.shared_kernel.infra.database.sqla.connection",
+        "description": "src.tetroweb.shared_kernel.infra.database.sqla.connection",
+        "peekOfCode": "Sessions = Annotated[Union[Session, scoped_session], \"SQLA Session\"]\n@dataclass(init=True, kw_only=True, slots=True)\nclass SyncDatabase:\n    engine: Engine = field(init=False, repr=False)\n    session_factory: sessionmaker = field(init=False, repr=False)\n    settings: \"DatabaseSettings\" = field(init=True, repr=False)\n    def __post_init__(self) -> None:\n        url = self.settings.url\n        echo = self.settings.echo\n        engine = create_engine(url, echo=echo)",
+        "detail": "src.tetroweb.shared_kernel.infra.database.sqla.connection",
+        "documentation": {}
+    },
+    {
+        "label": "SyncSqlaMixIn",
+        "kind": 6,
+        "importPath": "src.tetroweb.shared_kernel.infra.database.sqla.mixin",
+        "description": "src.tetroweb.shared_kernel.infra.database.sqla.mixin",
+        "peekOfCode": "class SyncSqlaMixIn(ABC):\n    db: SyncDatabase = field(init=False, repr=False)\n    logger: logging.Logger = field(init=False, repr=False)\n    @inject\n    def __post_init__(\n        self, db: SyncDatabase = Provide[\"database.db\"], name: str | None = None\n    ):\n        self.db = db\n        name = name or self.__class__.__name__\n        self.logger = logging.getLogger(name)",
+        "detail": "src.tetroweb.shared_kernel.infra.database.sqla.mixin",
+        "documentation": {}
+    },
+    {
+        "label": "TimestampMixin",
+        "kind": 6,
+        "importPath": "src.tetroweb.shared_kernel.infra.database.sqla.mixin",
+        "description": "src.tetroweb.shared_kernel.infra.database.sqla.mixin",
+        "peekOfCode": "class TimestampMixin:\n    created_at: Mapped[datetime] = mapped_column(\n        sa.TIMESTAMP(timezone=True), default=sa.func.now(), nullable=False\n    )\n    updated_at: Mapped[datetime] = mapped_column(\n        sa.TIMESTAMP(timezone=True),\n        nullable=False,\n        default=sa.func.now(),\n        onupdate=sa.func.now(),\n    )",
+        "detail": "src.tetroweb.shared_kernel.infra.database.sqla.mixin",
+        "documentation": {}
+    },
+    {
+        "label": "sqla_version",
+        "kind": 5,
+        "importPath": "src.tetroweb.shared_kernel.infra.database.sqla.mixin",
+        "description": "src.tetroweb.shared_kernel.infra.database.sqla.mixin",
+        "peekOfCode": "sqla_version = sa.__version__\n# @dataclass(init=True, kw_only=True, repr=True)\n# class AsyncSqlaMixIn(ABC):\n#     db: AsyncDatabase = field(init=False, repr=False)\n#     logger: logging.Logger = field(init=False, repr=False)\n#     @inject\n#     def __post_init__(\n#         self, db: AsyncDatabase = Provide[\"database.async_db\"], name: str | None = None\n#     ):\n#         self.db = db",
+        "detail": "src.tetroweb.shared_kernel.infra.database.sqla.mixin",
+        "documentation": {}
+    },
+    {
+        "label": "RDBRepository",
+        "kind": 6,
+        "importPath": "src.tetroweb.shared_kernel.infra.database.sqla.repository",
+        "description": "src.tetroweb.shared_kernel.infra.database.sqla.repository",
+        "peekOfCode": "class RDBRepository:\n    @staticmethod\n    def add(session, instance: EntityType):\n        return session.add(instance)\n    @staticmethod\n    async def delete(session, instance: EntityType):\n        return await session.delete(instance)\n    @staticmethod\n    async def commit(session):\n        return await session.commit()",
+        "detail": "src.tetroweb.shared_kernel.infra.database.sqla.repository",
+        "documentation": {}
+    },
+    {
+        "label": "RDBReadRepository",
+        "kind": 6,
+        "importPath": "src.tetroweb.shared_kernel.infra.database.sqla.repository",
+        "description": "src.tetroweb.shared_kernel.infra.database.sqla.repository",
+        "peekOfCode": "class RDBReadRepository:\n    pass",
+        "detail": "src.tetroweb.shared_kernel.infra.database.sqla.repository",
+        "documentation": {}
+    },
+    {
+        "label": "DatabaseSettings",
+        "kind": 6,
+        "importPath": "src.tetroweb.shared_kernel.infra.database.sqla.settings",
+        "description": "src.tetroweb.shared_kernel.infra.database.sqla.settings",
+        "peekOfCode": "class DatabaseSettings(BaseModel):\n    url: str = Field(\"\", description=\"Database URL\")\n    init: bool = False\n    echo: bool = True\n    pool_size: int = 10\n    max_overflow: int = 2\n    pool_recycle: int = 1800  # 중복 제거 및 기본값 통일\n    pg_schema: str = \"public\"\n    pool_timeout: int = 30\n    pool_pre_ping: bool = True",
+        "detail": "src.tetroweb.shared_kernel.infra.database.sqla.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ExampleEntity",
+        "kind": 6,
+        "importPath": "tests.test_inmemory_db",
+        "description": "tests.test_inmemory_db",
+        "peekOfCode": "class ExampleEntity(Base):\n    __tablename__ = \"example_entity\"\n    id: Mapped[int] = mapped_column(sa.Integer, primary_key=True)\n    name: Mapped[str] = mapped_column(sa.String)\n# 공통 CRUD 테스트 함수로 중복 제거\ndef test_add_and_commit(in_memory_db: sessionmaker):\n    name = \"test_entity\"\n    entity = ExampleEntity(name=name)\n    RDBRepository.add(in_memory_db, entity)\n    in_memory_db.commit()",
+        "detail": "tests.test_inmemory_db",
+        "documentation": {}
+    },
+    {
+        "label": "in_memory_db",
+        "kind": 2,
+        "importPath": "tests.test_inmemory_db",
+        "description": "tests.test_inmemory_db",
+        "peekOfCode": "def in_memory_db():\n    engine = create_engine(\"sqlite:///:memory:\", echo=False)\n    Base.metadata.create_all(engine)\n    Session = sessionmaker(bind=engine)\n    session = Session()\n    yield session\n    session.close()\n    clear_mappers()\nclass ExampleEntity(Base):\n    __tablename__ = \"example_entity\"",
+        "detail": "tests.test_inmemory_db",
+        "documentation": {}
+    },
+    {
+        "label": "test_add_and_commit",
+        "kind": 2,
+        "importPath": "tests.test_inmemory_db",
+        "description": "tests.test_inmemory_db",
+        "peekOfCode": "def test_add_and_commit(in_memory_db: sessionmaker):\n    name = \"test_entity\"\n    entity = ExampleEntity(name=name)\n    RDBRepository.add(in_memory_db, entity)\n    in_memory_db.commit()\n    result = in_memory_db.query(ExampleEntity).filter_by(name=name).first()\n    assert result is not None\n    assert result.name == name\n# 예외 처리 테스트 예시\ndef test_commit_exception(in_memory_db: sessionmaker):",
+        "detail": "tests.test_inmemory_db",
+        "documentation": {}
+    },
+    {
+        "label": "test_commit_exception",
+        "kind": 2,
+        "importPath": "tests.test_inmemory_db",
+        "description": "tests.test_inmemory_db",
+        "peekOfCode": "def test_commit_exception(in_memory_db: sessionmaker):\n    with pytest.raises(Exception):\n        in_memory_db.execute(\"INVALID SQL\")\n        in_memory_db.commit()",
+        "detail": "tests.test_inmemory_db",
+        "documentation": {}
+    },
+    {
+        "label": "ExampleEntity",
+        "kind": 6,
+        "importPath": "tests.test_inmemory_db_async",
+        "description": "tests.test_inmemory_db_async",
+        "peekOfCode": "class ExampleEntity(Base):\n    __tablename__ = \"example_entity\"\n    __table_args__ = {\"extend_existing\": True}\n    id: Mapped[int] = mapped_column(sa.Integer, primary_key=True)\n    name: Mapped[str] = mapped_column(sa.String)\n@pytest_asyncio.fixture(scope=\"function\")\nasync def test_async_add_and_commit(async_in_memory_db):\n    name = \"test_entity_async\"\n    entity = ExampleEntity(name=name)\n    async_in_memory_db.add(entity)",
+        "detail": "tests.test_inmemory_db_async",
+        "documentation": {}
+    }
+]

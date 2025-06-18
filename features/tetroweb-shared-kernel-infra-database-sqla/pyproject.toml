@@ -5,6 +5,7 @@ description = "Shared kernel infra database sqla"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "tetroweb-shared-kernel",
     "aiosqlite>=0.21.0",
     "asyncpg>=0.30.0",
     "sqlalchemy>=2.0.41",
@@ -22,12 +23,18 @@ build-backend = "hatchling.build"
 [tool.ruff]
 extend = "../../pyproject.toml"
 
+[tool.uv.sources]
+tetroweb-shared-kernel = { workspace = true }
+
 [dependency-groups]
 dev = [
+    "aiofiles>=24.1.0",
     "aiosqlite>=0.21.0",
     "alembic>=1.14.1",
     "faker>=35.2.0",
+    "ipykernel>=6.29.5",
     "pre-commit>=4.1.0",
+    "pydantic>=2.11.7",
     "pytest>=8.3.4",
     "pytest-asyncio>=0.25.3",
     "pytest-cov>=6.0.0",
