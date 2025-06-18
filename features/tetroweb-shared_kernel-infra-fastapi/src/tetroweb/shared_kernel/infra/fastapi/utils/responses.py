@@ -25,6 +25,8 @@ class XmlResponse(Response):
     media_type = "text/xml"
 
     def render(self, content: Any) -> bytes:
+        if isinstance(content, str):
+            return content.encode("utf-8")
         return dumps({"response": content}).encode("utf-8")
 
 

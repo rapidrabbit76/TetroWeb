@@ -6,6 +6,8 @@ from .model import SessionModel
 
 
 class AppSessionManager:
+    def __init__(self, app=None):
+        self.app = app
     request: Request
 
     @classmethod

@@ -1,0 +1,1014 @@
+[
+    {
+        "label": "runpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "runpy",
+        "description": "runpy",
+        "detail": "runpy",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "pformat",
+        "importPath": "pprint",
+        "description": "pprint",
+        "isExtraImport": true,
+        "detail": "pprint",
+        "documentation": {}
+    },
+    {
+        "label": "jmespath",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "jmespath",
+        "description": "jmespath",
+        "detail": "jmespath",
+        "documentation": {}
+    },
+    {
+        "label": "exceptions",
+        "importPath": "jmespath",
+        "description": "jmespath",
+        "isExtraImport": true,
+        "detail": "jmespath",
+        "documentation": {}
+    },
+    {
+        "label": "io",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "io",
+        "description": "io",
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "PIL",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "PIL",
+        "description": "PIL",
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "File",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "UploadFile",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "CamelModel",
+        "importPath": "tetroweb.shared_kernel.infra.camel_model",
+        "description": "tetroweb.shared_kernel.infra.camel_model",
+        "isExtraImport": true,
+        "detail": "tetroweb.shared_kernel.infra.camel_model",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "tetroweb.shared_kernel.infra.camel_model",
+        "description": "tetroweb.shared_kernel.infra.camel_model",
+        "isExtraImport": true,
+        "detail": "tetroweb.shared_kernel.infra.camel_model",
+        "documentation": {}
+    },
+    {
+        "label": "CamelModel",
+        "importPath": "tetroweb.shared_kernel.infra.camel_model",
+        "description": "tetroweb.shared_kernel.infra.camel_model",
+        "isExtraImport": true,
+        "detail": "tetroweb.shared_kernel.infra.camel_model",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "tetroweb.shared_kernel.infra.camel_model",
+        "description": "tetroweb.shared_kernel.infra.camel_model",
+        "isExtraImport": true,
+        "detail": "tetroweb.shared_kernel.infra.camel_model",
+        "documentation": {}
+    },
+    {
+        "label": "CamelModel",
+        "importPath": "tetroweb.shared_kernel.infra.camel_model",
+        "description": "tetroweb.shared_kernel.infra.camel_model",
+        "isExtraImport": true,
+        "detail": "tetroweb.shared_kernel.infra.camel_model",
+        "documentation": {}
+    },
+    {
+        "label": "TypeVar",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Generic",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TypeVar",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TYPE_CHECKING",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "computed_field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "BaseMsgException",
+        "importPath": "tetroweb.shared_kernel.domain.exception",
+        "description": "tetroweb.shared_kernel.domain.exception",
+        "isExtraImport": true,
+        "detail": "tetroweb.shared_kernel.domain.exception",
+        "documentation": {}
+    },
+    {
+        "label": "ResponseDto",
+        "importPath": "tetroweb.shared_kernel.infra.fastapi.dtos.response",
+        "description": "tetroweb.shared_kernel.infra.fastapi.dtos.response",
+        "isExtraImport": true,
+        "detail": "tetroweb.shared_kernel.infra.fastapi.dtos.response",
+        "documentation": {}
+    },
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "BaseHTTPMiddleware",
+        "importPath": "starlette.middleware.base",
+        "description": "starlette.middleware.base",
+        "isExtraImport": true,
+        "detail": "starlette.middleware.base",
+        "documentation": {}
+    },
+    {
+        "label": "SessionMiddleware",
+        "importPath": "starlette.middleware.sessions",
+        "description": "starlette.middleware.sessions",
+        "isExtraImport": true,
+        "detail": "starlette.middleware.sessions",
+        "documentation": {}
+    },
+    {
+        "label": "dumps",
+        "importPath": "simplexml",
+        "description": "simplexml",
+        "isExtraImport": true,
+        "detail": "simplexml",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "starlette.responses",
+        "description": "starlette.responses",
+        "isExtraImport": true,
+        "detail": "starlette.responses",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "starlette.responses",
+        "description": "starlette.responses",
+        "isExtraImport": true,
+        "detail": "starlette.responses",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "APIRoute",
+        "importPath": "fastapi.routing",
+        "description": "fastapi.routing",
+        "isExtraImport": true,
+        "detail": "fastapi.routing",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "starlette.requests",
+        "description": "starlette.requests",
+        "isExtraImport": true,
+        "detail": "starlette.requests",
+        "documentation": {}
+    },
+    {
+        "label": "pytest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytest",
+        "description": "pytest",
+        "detail": "pytest",
+        "documentation": {}
+    },
+    {
+        "label": "Pageable",
+        "importPath": "tetroweb.shared_kernel.infra.fastapi.dtos.request.pageable",
+        "description": "tetroweb.shared_kernel.infra.fastapi.dtos.request.pageable",
+        "isExtraImport": true,
+        "detail": "tetroweb.shared_kernel.infra.fastapi.dtos.request.pageable",
+        "documentation": {}
+    },
+    {
+        "label": "ResponseDto",
+        "importPath": "tetroweb.shared_kernel.infra.fastapi.dtos.response.base",
+        "description": "tetroweb.shared_kernel.infra.fastapi.dtos.response.base",
+        "isExtraImport": true,
+        "detail": "tetroweb.shared_kernel.infra.fastapi.dtos.response.base",
+        "documentation": {}
+    },
+    {
+        "label": "PaginationResponse",
+        "importPath": "tetroweb.shared_kernel.infra.fastapi.dtos.response.pageable",
+        "description": "tetroweb.shared_kernel.infra.fastapi.dtos.response.pageable",
+        "isExtraImport": true,
+        "detail": "tetroweb.shared_kernel.infra.fastapi.dtos.response.pageable",
+        "documentation": {}
+    },
+    {
+        "label": "PageMeta",
+        "importPath": "tetroweb.shared_kernel.infra.fastapi.dtos.response.pageable",
+        "description": "tetroweb.shared_kernel.infra.fastapi.dtos.response.pageable",
+        "isExtraImport": true,
+        "detail": "tetroweb.shared_kernel.infra.fastapi.dtos.response.pageable",
+        "documentation": {}
+    },
+    {
+        "label": "PaginationResponse",
+        "importPath": "tetroweb.shared_kernel.infra.fastapi.dtos.response.pageable",
+        "description": "tetroweb.shared_kernel.infra.fastapi.dtos.response.pageable",
+        "isExtraImport": true,
+        "detail": "tetroweb.shared_kernel.infra.fastapi.dtos.response.pageable",
+        "documentation": {}
+    },
+    {
+        "label": "PageMeta",
+        "importPath": "tetroweb.shared_kernel.infra.fastapi.dtos.response.pageable",
+        "description": "tetroweb.shared_kernel.infra.fastapi.dtos.response.pageable",
+        "isExtraImport": true,
+        "detail": "tetroweb.shared_kernel.infra.fastapi.dtos.response.pageable",
+        "documentation": {}
+    },
+    {
+        "label": "custom_exception_handler",
+        "importPath": "tetroweb.shared_kernel.infra.fastapi.exception_handlers.base",
+        "description": "tetroweb.shared_kernel.infra.fastapi.exception_handlers.base",
+        "isExtraImport": true,
+        "detail": "tetroweb.shared_kernel.infra.fastapi.exception_handlers.base",
+        "documentation": {}
+    },
+    {
+        "label": "custom_exception_handler",
+        "importPath": "tetroweb.shared_kernel.infra.fastapi.exception_handlers.base",
+        "description": "tetroweb.shared_kernel.infra.fastapi.exception_handlers.base",
+        "isExtraImport": true,
+        "detail": "tetroweb.shared_kernel.infra.fastapi.exception_handlers.base",
+        "documentation": {}
+    },
+    {
+        "label": "CorrelationIdMiddleware",
+        "importPath": "tetroweb.shared_kernel.infra.fastapi.middlewares.correlation_id",
+        "description": "tetroweb.shared_kernel.infra.fastapi.middlewares.correlation_id",
+        "isExtraImport": true,
+        "detail": "tetroweb.shared_kernel.infra.fastapi.middlewares.correlation_id",
+        "documentation": {}
+    },
+    {
+        "label": "CorrelationIdMiddleware",
+        "importPath": "tetroweb.shared_kernel.infra.fastapi.middlewares.correlation_id",
+        "description": "tetroweb.shared_kernel.infra.fastapi.middlewares.correlation_id",
+        "isExtraImport": true,
+        "detail": "tetroweb.shared_kernel.infra.fastapi.middlewares.correlation_id",
+        "documentation": {}
+    },
+    {
+        "label": "AppSessionManager",
+        "importPath": "tetroweb.shared_kernel.infra.fastapi.middlewares.session",
+        "description": "tetroweb.shared_kernel.infra.fastapi.middlewares.session",
+        "isExtraImport": true,
+        "detail": "tetroweb.shared_kernel.infra.fastapi.middlewares.session",
+        "documentation": {}
+    },
+    {
+        "label": "MsgSpecJSONResponse",
+        "importPath": "tetroweb.shared_kernel.infra.fastapi.utils.responses",
+        "description": "tetroweb.shared_kernel.infra.fastapi.utils.responses",
+        "isExtraImport": true,
+        "detail": "tetroweb.shared_kernel.infra.fastapi.utils.responses",
+        "documentation": {}
+    },
+    {
+        "label": "XmlResponse",
+        "importPath": "tetroweb.shared_kernel.infra.fastapi.utils.responses",
+        "description": "tetroweb.shared_kernel.infra.fastapi.utils.responses",
+        "isExtraImport": true,
+        "detail": "tetroweb.shared_kernel.infra.fastapi.utils.responses",
+        "documentation": {}
+    },
+    {
+        "label": "MsgSpecJSONResponse",
+        "importPath": "tetroweb.shared_kernel.infra.fastapi.utils.responses",
+        "description": "tetroweb.shared_kernel.infra.fastapi.utils.responses",
+        "isExtraImport": true,
+        "detail": "tetroweb.shared_kernel.infra.fastapi.utils.responses",
+        "documentation": {}
+    },
+    {
+        "label": "XmlResponse",
+        "importPath": "tetroweb.shared_kernel.infra.fastapi.utils.responses",
+        "description": "tetroweb.shared_kernel.infra.fastapi.utils.responses",
+        "isExtraImport": true,
+        "detail": "tetroweb.shared_kernel.infra.fastapi.utils.responses",
+        "documentation": {}
+    },
+    {
+        "label": "LoggingRestAPIRoute",
+        "importPath": "tetroweb.shared_kernel.infra.fastapi.utils.router",
+        "description": "tetroweb.shared_kernel.infra.fastapi.utils.router",
+        "isExtraImport": true,
+        "detail": "tetroweb.shared_kernel.infra.fastapi.utils.router",
+        "documentation": {}
+    },
+    {
+        "label": "TestClient",
+        "importPath": "fastapi.testclient",
+        "description": "fastapi.testclient",
+        "isExtraImport": true,
+        "detail": "fastapi.testclient",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"tetroweb-shared_kernel-infra-fastapi\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.12/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"tetroweb-shared_kernel-infra-fastapi\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.12/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"tetroweb-shared_kernel-infra-fastapi\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.12/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"tetroweb-shared_kernel-infra-fastapi\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.12/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = \"tetroweb-shared_kernel-infra-fastapi\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.12/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"../lib/python3.12/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": ".venv.bin.jp",
+        "description": ".venv.bin.jp",
+        "peekOfCode": "def main():\n    parser = argparse.ArgumentParser()\n    parser.add_argument('expression')\n    parser.add_argument('-f', '--filename',\n                        help=('The filename containing the input data.  '\n                              'If a filename is not given then data is '\n                              'read from stdin.'))\n    parser.add_argument('--ast', action='store_true',\n                        help=('Pretty print the AST, do not search the data.'))\n    args = parser.parse_args()",
+        "detail": ".venv.bin.jp",
+        "documentation": {}
+    },
+    {
+        "label": "Pageable",
+        "kind": 6,
+        "importPath": "src.tetroweb.shared_kernel.infra.fastapi.dtos.request.pageable",
+        "description": "src.tetroweb.shared_kernel.infra.fastapi.dtos.request.pageable",
+        "peekOfCode": "class Pageable(CamelModel):\n    page: int = Field(1, ge=1)\n    size: int = Field(20, ge=1, le=500)\n    sort: str | None = Field(\n        None,\n        examples=[\n            \"id:asc\",\n            \"id:desc\",\n            \"writed:asc\",\n            \"writed:desc\",",
+        "detail": "src.tetroweb.shared_kernel.infra.fastapi.dtos.request.pageable",
+        "documentation": {}
+    },
+    {
+        "label": "ResponseDto[DataT]",
+        "kind": 6,
+        "importPath": "src.tetroweb.shared_kernel.infra.fastapi.dtos.response.base",
+        "description": "src.tetroweb.shared_kernel.infra.fastapi.dtos.response.base",
+        "peekOfCode": "class ResponseDto[DataT](BaseModel):\n    status: str | int\n    message: str | None = None\n    data: DataT | None = None",
+        "detail": "src.tetroweb.shared_kernel.infra.fastapi.dtos.response.base",
+        "documentation": {}
+    },
+    {
+        "label": "DataT",
+        "kind": 5,
+        "importPath": "src.tetroweb.shared_kernel.infra.fastapi.dtos.response.base",
+        "description": "src.tetroweb.shared_kernel.infra.fastapi.dtos.response.base",
+        "peekOfCode": "DataT = TypeVar(\"DataT\")\nclass ResponseDto[DataT](BaseModel):\n    status: str | int\n    message: str | None = None\n    data: DataT | None = None",
+        "detail": "src.tetroweb.shared_kernel.infra.fastapi.dtos.response.base",
+        "documentation": {}
+    },
+    {
+        "label": "PaginationList",
+        "kind": 6,
+        "importPath": "src.tetroweb.shared_kernel.infra.fastapi.dtos.response.pageable",
+        "description": "src.tetroweb.shared_kernel.infra.fastapi.dtos.response.pageable",
+        "peekOfCode": "class PaginationList(list[T]):\n    total: int | None = None\n    metadata: Any | None = None\n    @classmethod\n    def build(\n        cls,\n        data: List[T] | Sequence[T],\n        total: int | None = None,\n        metadata: Any | None = None,\n    ):",
+        "detail": "src.tetroweb.shared_kernel.infra.fastapi.dtos.response.pageable",
+        "documentation": {}
+    },
+    {
+        "label": "PageMeta",
+        "kind": 6,
+        "importPath": "src.tetroweb.shared_kernel.infra.fastapi.dtos.response.pageable",
+        "description": "src.tetroweb.shared_kernel.infra.fastapi.dtos.response.pageable",
+        "peekOfCode": "class PageMeta(CamelModel):\n    page: int\n    size: int\n    total: int | None = Field(default=None)\n    @computed_field\n    def total_page(self) -> int | None:\n        if self.total is None:\n            return None\n        total_page = self.total // self.size\n        if self.total % self.size > 0:",
+        "detail": "src.tetroweb.shared_kernel.infra.fastapi.dtos.response.pageable",
+        "documentation": {}
+    },
+    {
+        "label": "PaginationResponse",
+        "kind": 6,
+        "importPath": "src.tetroweb.shared_kernel.infra.fastapi.dtos.response.pageable",
+        "description": "src.tetroweb.shared_kernel.infra.fastapi.dtos.response.pageable",
+        "peekOfCode": "class PaginationResponse(BaseModel, Generic[T]):\n    meta: PageMeta = Field()\n    items: List[T] = Field(default_factory=list)\n    @classmethod\n    def build(cls, data: PaginationList[T] | list[T], pageable: \"Pageable\"):\n        paging = PageMeta(\n            page=pageable.page,\n            size=pageable.size,\n            total=data.total if hasattr(data, \"total\") else None,\n        )",
+        "detail": "src.tetroweb.shared_kernel.infra.fastapi.dtos.response.pageable",
+        "documentation": {}
+    },
+    {
+        "label": "T",
+        "kind": 5,
+        "importPath": "src.tetroweb.shared_kernel.infra.fastapi.dtos.response.pageable",
+        "description": "src.tetroweb.shared_kernel.infra.fastapi.dtos.response.pageable",
+        "peekOfCode": "T = TypeVar(\"T\")\nclass PaginationList(list[T]):\n    total: int | None = None\n    metadata: Any | None = None\n    @classmethod\n    def build(\n        cls,\n        data: List[T] | Sequence[T],\n        total: int | None = None,\n        metadata: Any | None = None,",
+        "detail": "src.tetroweb.shared_kernel.infra.fastapi.dtos.response.pageable",
+        "documentation": {}
+    },
+    {
+        "label": "CorrelationIdMiddleware",
+        "kind": 6,
+        "importPath": "src.tetroweb.shared_kernel.infra.fastapi.middlewares.correlation_id",
+        "description": "src.tetroweb.shared_kernel.infra.fastapi.middlewares.correlation_id",
+        "peekOfCode": "class CorrelationIdMiddleware(BaseHTTPMiddleware):\n    def __init__(self, app):\n        super().__init__(app)\n    async def dispatch(self, request, call_next):\n        request.state.correlation_id = request.headers.get(\"x-correlation-id\", str(uuid.uuid4()))\n        response = await call_next(request)\n        response.headers[\"x-correlation-id\"] = request.state.correlation_id\n        return response",
+        "detail": "src.tetroweb.shared_kernel.infra.fastapi.middlewares.correlation_id",
+        "documentation": {}
+    },
+    {
+        "label": "SessionModel",
+        "kind": 6,
+        "importPath": "src.tetroweb.shared_kernel.infra.fastapi.middlewares.model",
+        "description": "src.tetroweb.shared_kernel.infra.fastapi.middlewares.model",
+        "peekOfCode": "class SessionModel(BaseModel):\n    version: str | None\n    current_time: str | None",
+        "detail": "src.tetroweb.shared_kernel.infra.fastapi.middlewares.model",
+        "documentation": {}
+    },
+    {
+        "label": "AppSessionManager",
+        "kind": 6,
+        "importPath": "src.tetroweb.shared_kernel.infra.fastapi.middlewares.session",
+        "description": "src.tetroweb.shared_kernel.infra.fastapi.middlewares.session",
+        "peekOfCode": "class AppSessionManager:\n    def __init__(self, app=None):\n        self.app = app\n    request: Request\n    @classmethod\n    def get_session(cls, request: Request) -> AppSessionManager:\n        manager = cls()\n        manager.request = request\n        return manager\n    @property",
+        "detail": "src.tetroweb.shared_kernel.infra.fastapi.middlewares.session",
+        "documentation": {}
+    },
+    {
+        "label": "MsgSpecJSONResponse",
+        "kind": 6,
+        "importPath": "src.tetroweb.shared_kernel.infra.fastapi.utils.responses",
+        "description": "src.tetroweb.shared_kernel.infra.fastapi.utils.responses",
+        "peekOfCode": "class MsgSpecJSONResponse(JSONResponse):\n    \"\"\"\n    JSON response using the high-performance ujson library to serialize data to JSON.\n    \"\"\"\n    def render(self, content: Any) -> bytes:\n        assert msgspec is not None, \"msgpack must be installed to use MsgSpecJSONResponse\"\n        return msgspec.json.encode(content)\nclass XmlResponse(Response):\n    media_type = \"text/xml\"\n    def render(self, content: Any) -> bytes:",
+        "detail": "src.tetroweb.shared_kernel.infra.fastapi.utils.responses",
+        "documentation": {}
+    },
+    {
+        "label": "XmlResponse",
+        "kind": 6,
+        "importPath": "src.tetroweb.shared_kernel.infra.fastapi.utils.responses",
+        "description": "src.tetroweb.shared_kernel.infra.fastapi.utils.responses",
+        "peekOfCode": "class XmlResponse(Response):\n    media_type = \"text/xml\"\n    def render(self, content: Any) -> bytes:\n        if isinstance(content, str):\n            return content.encode(\"utf-8\")\n        return dumps({\"response\": content}).encode(\"utf-8\")\nclass ExceptionResponse(CamelModel):\n    request_id: str\n    detail: str\n    error: str",
+        "detail": "src.tetroweb.shared_kernel.infra.fastapi.utils.responses",
+        "documentation": {}
+    },
+    {
+        "label": "ExceptionResponse",
+        "kind": 6,
+        "importPath": "src.tetroweb.shared_kernel.infra.fastapi.utils.responses",
+        "description": "src.tetroweb.shared_kernel.infra.fastapi.utils.responses",
+        "peekOfCode": "class ExceptionResponse(CamelModel):\n    request_id: str\n    detail: str\n    error: str\n    status_code: int",
+        "detail": "src.tetroweb.shared_kernel.infra.fastapi.utils.responses",
+        "documentation": {}
+    },
+    {
+        "label": "LoggingRestAPIRoute",
+        "kind": 6,
+        "importPath": "src.tetroweb.shared_kernel.infra.fastapi.utils.router",
+        "description": "src.tetroweb.shared_kernel.infra.fastapi.utils.router",
+        "peekOfCode": "class LoggingRestAPIRoute(APIRoute):\n    def get_route_handler(self) -> Callable:\n        original_route_handler = super().get_route_handler()\n        async def custom_route_handler(request: Request) -> Response:\n            await self._request_log(request)\n            response: Response = await original_route_handler(request)\n            self._response_log(request, response)\n            return response\n        return custom_route_handler\n    @staticmethod",
+        "detail": "src.tetroweb.shared_kernel.infra.fastapi.utils.router",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "src.tetroweb.shared_kernel.infra.fastapi.utils.router",
+        "description": "src.tetroweb.shared_kernel.infra.fastapi.utils.router",
+        "peekOfCode": "logger = logging.getLogger(\"uvicorn\")\nclass LoggingRestAPIRoute(APIRoute):\n    def get_route_handler(self) -> Callable:\n        original_route_handler = super().get_route_handler()\n        async def custom_route_handler(request: Request) -> Response:\n            await self._request_log(request)\n            response: Response = await original_route_handler(request)\n            self._response_log(request, response)\n            return response\n        return custom_route_handler",
+        "detail": "src.tetroweb.shared_kernel.infra.fastapi.utils.router",
+        "documentation": {}
+    },
+    {
+        "label": "test_pageable_default",
+        "kind": 2,
+        "importPath": "tests.dtos.test_pageable",
+        "description": "tests.dtos.test_pageable",
+        "peekOfCode": "def test_pageable_default():\n    p = Pageable()\n    assert p.page == 1\n    assert p.size == 20\ndef test_pageable_custom():\n    p = Pageable(page=3, size=50)\n    assert p.page == 3\n    assert p.size == 50",
+        "detail": "tests.dtos.test_pageable",
+        "documentation": {}
+    },
+    {
+        "label": "test_pageable_custom",
+        "kind": 2,
+        "importPath": "tests.dtos.test_pageable",
+        "description": "tests.dtos.test_pageable",
+        "peekOfCode": "def test_pageable_custom():\n    p = Pageable(page=3, size=50)\n    assert p.page == 3\n    assert p.size == 50",
+        "detail": "tests.dtos.test_pageable",
+        "documentation": {}
+    },
+    {
+        "label": "test_response_dto",
+        "kind": 2,
+        "importPath": "tests.dtos.test_response_base",
+        "description": "tests.dtos.test_response_base",
+        "peekOfCode": "def test_response_dto():\n    resp = ResponseDto(status=200, data={\"foo\": \"bar\"}, message=\"ok\")\n    assert resp.status == 200\n    assert resp.data == {\"foo\": \"bar\"}\n    assert resp.message == \"ok\"",
+        "detail": "tests.dtos.test_response_base",
+        "documentation": {}
+    },
+    {
+        "label": "test_pagination_response",
+        "kind": 2,
+        "importPath": "tests.dtos.test_response_pageable",
+        "description": "tests.dtos.test_response_pageable",
+        "peekOfCode": "def test_pagination_response():\n    meta = PageMeta(page=1, size=10, total=3)\n    resp = PaginationResponse(items=[1,2,3], meta=meta)\n    assert resp.items == [1,2,3]\n    assert resp.meta.page == 1\n    assert resp.meta.size == 10\n    assert resp.meta.total == 3",
+        "detail": "tests.dtos.test_response_pageable",
+        "documentation": {}
+    },
+    {
+        "label": "DummyRequest",
+        "kind": 6,
+        "importPath": "tests.exception_handlers.test_base",
+        "description": "tests.exception_handlers.test_base",
+        "peekOfCode": "class DummyRequest:\n    def __init__(self):\n        self.method = \"GET\"\n        self.url = type(\"obj\", (object,), {\"path\": \"/test\"})()\n        self.state = type(\"obj\", (object,), {\"correlation_id\": \"abc\"})()\nclass DummyException(Exception):\n    code = 400\n    message = \"error\"\n    error = \"dummy\"\n@pytest.mark.asyncio",
+        "detail": "tests.exception_handlers.test_base",
+        "documentation": {}
+    },
+    {
+        "label": "DummyException",
+        "kind": 6,
+        "importPath": "tests.exception_handlers.test_base",
+        "description": "tests.exception_handlers.test_base",
+        "peekOfCode": "class DummyException(Exception):\n    code = 400\n    message = \"error\"\n    error = \"dummy\"\n@pytest.mark.asyncio\nasync def test_custom_exception_handler():\n    req = DummyRequest()\n    exc = DummyException()\n    response = await custom_exception_handler(req, exc)\n    assert response.status_code == 400",
+        "detail": "tests.exception_handlers.test_base",
+        "documentation": {}
+    },
+    {
+        "label": "DummyApp",
+        "kind": 6,
+        "importPath": "tests.middlewares.test_correlation_id",
+        "description": "tests.middlewares.test_correlation_id",
+        "peekOfCode": "class DummyApp:\n    async def __call__(self, scope, receive, send):\n        pass\ndef test_correlation_id_middleware_adds_header():\n    middleware = CorrelationIdMiddleware(DummyApp())\n    assert hasattr(middleware, \"app\")",
+        "detail": "tests.middlewares.test_correlation_id",
+        "documentation": {}
+    },
+    {
+        "label": "test_correlation_id_middleware_adds_header",
+        "kind": 2,
+        "importPath": "tests.middlewares.test_correlation_id",
+        "description": "tests.middlewares.test_correlation_id",
+        "peekOfCode": "def test_correlation_id_middleware_adds_header():\n    middleware = CorrelationIdMiddleware(DummyApp())\n    assert hasattr(middleware, \"app\")",
+        "detail": "tests.middlewares.test_correlation_id",
+        "documentation": {}
+    },
+    {
+        "label": "test_app_session_manager_init",
+        "kind": 2,
+        "importPath": "tests.middlewares.test_session",
+        "description": "tests.middlewares.test_session",
+        "peekOfCode": "def test_app_session_manager_init():\n    manager = AppSessionManager()\n    assert manager is not None",
+        "detail": "tests.middlewares.test_session",
+        "documentation": {}
+    },
+    {
+        "label": "test_msgspec_json_response",
+        "kind": 2,
+        "importPath": "tests.utils.test_responses",
+        "description": "tests.utils.test_responses",
+        "peekOfCode": "def test_msgspec_json_response():\n    resp = MsgSpecJSONResponse(content={\"foo\": \"bar\"})\n    assert resp.status_code == 200\n    assert resp.body is not None\ndef test_xml_response():\n    resp = XmlResponse(content=\"<foo>bar</foo>\")\n    assert resp.status_code == 200\n    assert resp.body == b\"<foo>bar</foo>\"",
+        "detail": "tests.utils.test_responses",
+        "documentation": {}
+    },
+    {
+        "label": "test_xml_response",
+        "kind": 2,
+        "importPath": "tests.utils.test_responses",
+        "description": "tests.utils.test_responses",
+        "peekOfCode": "def test_xml_response():\n    resp = XmlResponse(content=\"<foo>bar</foo>\")\n    assert resp.status_code == 200\n    assert resp.body == b\"<foo>bar</foo>\"",
+        "detail": "tests.utils.test_responses",
+        "documentation": {}
+    },
+    {
+        "label": "test_logging_rest_api_route",
+        "kind": 2,
+        "importPath": "tests.utils.test_router",
+        "description": "tests.utils.test_router",
+        "peekOfCode": "def test_logging_rest_api_route():\n    route = LoggingRestAPIRoute(endpoint=lambda: None, path=\"/\", methods=[\"GET\"])\n    assert route.path == \"/\"",
+        "detail": "tests.utils.test_router",
+        "documentation": {}
+    },
+    {
+        "label": "get_pageable",
+        "kind": 2,
+        "importPath": "tests.test_integration_fastapi",
+        "description": "tests.test_integration_fastapi",
+        "peekOfCode": "def get_pageable(page: int = 1, size: int = 10):\n    meta = PageMeta(page=page, size=size, total=2)\n    return PaginationResponse(items=[\"a\", \"b\"], meta=meta)\n@app.get(\"/json\", response_class=MsgSpecJSONResponse)\ndef get_json():\n    return {\"foo\": \"bar\"}\n@app.get(\"/xml\", response_class=XmlResponse)\ndef get_xml():\n    return {\"foo\": \"bar\"}\n@app.get(\"/error\")",
+        "detail": "tests.test_integration_fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "get_json",
+        "kind": 2,
+        "importPath": "tests.test_integration_fastapi",
+        "description": "tests.test_integration_fastapi",
+        "peekOfCode": "def get_json():\n    return {\"foo\": \"bar\"}\n@app.get(\"/xml\", response_class=XmlResponse)\ndef get_xml():\n    return {\"foo\": \"bar\"}\n@app.get(\"/error\")\ndef get_error():\n    class DummyException(Exception):\n        code = 500\n        message = \"fail\"",
+        "detail": "tests.test_integration_fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "get_xml",
+        "kind": 2,
+        "importPath": "tests.test_integration_fastapi",
+        "description": "tests.test_integration_fastapi",
+        "peekOfCode": "def get_xml():\n    return {\"foo\": \"bar\"}\n@app.get(\"/error\")\ndef get_error():\n    class DummyException(Exception):\n        code = 500\n        message = \"fail\"\n        error = \"dummy\"\n    raise Exception()\nclient = TestClient(app)",
+        "detail": "tests.test_integration_fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "get_error",
+        "kind": 2,
+        "importPath": "tests.test_integration_fastapi",
+        "description": "tests.test_integration_fastapi",
+        "peekOfCode": "def get_error():\n    class DummyException(Exception):\n        code = 500\n        message = \"fail\"\n        error = \"dummy\"\n    raise Exception()\nclient = TestClient(app)\ndef test_pageable_integration():\n    resp = client.get(\"/pageable?page=2&size=5\")\n    assert resp.status_code == 200",
+        "detail": "tests.test_integration_fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "test_pageable_integration",
+        "kind": 2,
+        "importPath": "tests.test_integration_fastapi",
+        "description": "tests.test_integration_fastapi",
+        "peekOfCode": "def test_pageable_integration():\n    resp = client.get(\"/pageable?page=2&size=5\")\n    assert resp.status_code == 200\n    data = resp.json()\n    assert data[\"meta\"][\"page\"] == 2\n    assert data[\"meta\"][\"size\"] == 5\n    assert data[\"items\"] == [\"a\", \"b\"]\ndef test_json_response():\n    resp = client.get(\"/json\")\n    assert resp.status_code == 200",
+        "detail": "tests.test_integration_fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "test_json_response",
+        "kind": 2,
+        "importPath": "tests.test_integration_fastapi",
+        "description": "tests.test_integration_fastapi",
+        "peekOfCode": "def test_json_response():\n    resp = client.get(\"/json\")\n    assert resp.status_code == 200\n    assert resp.json() == {\"foo\": \"bar\"}\ndef test_xml_response():\n    resp = client.get(\"/xml\")\n    assert resp.status_code == 200\n    assert resp.headers[\"content-type\"].startswith(\"text/xml\")\ndef test_correlation_id_header():\n    resp = client.get(\"/json\")",
+        "detail": "tests.test_integration_fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "test_xml_response",
+        "kind": 2,
+        "importPath": "tests.test_integration_fastapi",
+        "description": "tests.test_integration_fastapi",
+        "peekOfCode": "def test_xml_response():\n    resp = client.get(\"/xml\")\n    assert resp.status_code == 200\n    assert resp.headers[\"content-type\"].startswith(\"text/xml\")\ndef test_correlation_id_header():\n    resp = client.get(\"/json\")\n    assert \"x-correlation-id\" in resp.headers",
+        "detail": "tests.test_integration_fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "test_correlation_id_header",
+        "kind": 2,
+        "importPath": "tests.test_integration_fastapi",
+        "description": "tests.test_integration_fastapi",
+        "peekOfCode": "def test_correlation_id_header():\n    resp = client.get(\"/json\")\n    assert \"x-correlation-id\" in resp.headers",
+        "detail": "tests.test_integration_fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "tests.test_integration_fastapi",
+        "description": "tests.test_integration_fastapi",
+        "peekOfCode": "app = FastAPI()\napp.add_middleware(CorrelationIdMiddleware)\n# app.add_middleware(AppSessionManager)\napp.add_exception_handler(Exception, custom_exception_handler)\n@app.get(\"/pageable\", response_model=PaginationResponse)\ndef get_pageable(page: int = 1, size: int = 10):\n    meta = PageMeta(page=page, size=size, total=2)\n    return PaginationResponse(items=[\"a\", \"b\"], meta=meta)\n@app.get(\"/json\", response_class=MsgSpecJSONResponse)\ndef get_json():",
+        "detail": "tests.test_integration_fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "tests.test_integration_fastapi",
+        "description": "tests.test_integration_fastapi",
+        "peekOfCode": "client = TestClient(app)\ndef test_pageable_integration():\n    resp = client.get(\"/pageable?page=2&size=5\")\n    assert resp.status_code == 200\n    data = resp.json()\n    assert data[\"meta\"][\"page\"] == 2\n    assert data[\"meta\"][\"size\"] == 5\n    assert data[\"items\"] == [\"a\", \"b\"]\ndef test_json_response():\n    resp = client.get(\"/json\")",
+        "detail": "tests.test_integration_fastapi",
+        "documentation": {}
+    }
+]
