@@ -1,6 +1,20 @@
 # TetroWeb
 
-Welcome to the TetroWeb project! This is a full-stack monorepo application built with a modern technology stack, featuring a Python backend, a Next.js frontend, and a modular architecture.
+Welcome to the TetroWeb project! This is a full-stack monorepo web tetris application built with a modern technology stack, featuring a Python backend, a Next.js frontend, and a modular architecture.
+
+> **Note**: This repository is a personal project created for the purpose of practicing 'vive coding'.
+
+## Vive Coding
+
+| Component |  %  |
+| :-------- | :-: |
+| Backend   | 40% |
+| Frontend  | 90% |
+
+### Tools
+- [v0 by Vercel](https://v0.dev)
+- [GitHub Copilot](https://copilot.github.com/)
+
 
 ## Architecture Overview
 
@@ -8,34 +22,35 @@ The project is structured as a monorepo managed by `uv` workspaces. This approac
 
 ### Workspace Structure
 
--   `📂 projects/`: Contains the primary applications.
-    -   `🚀 tetroweb-backend`: The core API service built with FastAPI.
-    -   `🌐 tetroweb-web`: The frontend application built with Next.js.
--   `📂 features/`: Contains shared libraries (kernels) used across the projects.
-    -   `⚙️ tetroweb-shared-kernel`: Core domain models, settings, and infrastructure interfaces.
-    -   `🔗 tetroweb-shared-kernel-infra-fastapi`: Reusable FastAPI-specific components.
-    -   `🗃️ tetroweb-shared-kernel-infra-database-sqla`: SQLAlchemy and data persistence components.
+- `📂 projects/`: Contains the primary applications.
+  - `🚀 tetroweb-backend`: The core API service built with FastAPI.
+  - `🌐 tetroweb-web`: The frontend application built with Next.js.
+- `📂 features/`: Contains shared libraries (kernels) used across the projects.
+  - `⚙️ tetroweb-shared-kernel`: Core domain models, settings, and infrastructure interfaces.
+  - `🔗 tetroweb-shared-kernel-infra-fastapi`: Reusable FastAPI-specific components.
+  - `🗃️ tetroweb-shared-kernel-infra-database-sqla`: SQLAlchemy and data persistence components.
 
 ## Tech Stack
 
-| Category           | Technology                                                              |
-| ------------------ | ----------------------------------------------------------------------- |
-| **Backend**        | Python 3.12+, FastAPI, SQLAlchemy, Alembic, `dependency-injector`       |
-| **Frontend**       | Next.js, React, TypeScript, Geist Font                                  |
-| **Database**       | PostgreSQL, Redis (for caching)                                         |
-| **Tooling**        | `uv`, `ruff`, `pytest`, `pre-commit`, `hatchling`                        |
+| Category     | Technology                                                        |
+| ------------ | ----------------------------------------------------------------- |
+| **Backend**  | Python 3.12+, FastAPI, SQLAlchemy, Alembic, `dependency-injector` |
+| **Frontend** | Next.js, React, TypeScript, Geist Font                            |
+| **Database** | sqlite3                                                           |
+| **Tooling**  | `uv`, `ruff`, `pytest`, `pre-commit`, `hatchling`                 |
 
 ## Getting Started
 
 ### Prerequisites
 
--   Python >= 3.12
--   [uv](https://github.com/astral-sh/uv) (`pip install uv`)
--   Node.js and `pnpm`
+- Python >= 3.12
+- [uv](https://github.com/astral-sh/uv) (`pip install uv`)
+- Node.js and `pnpm`
 
 ### Installation & Setup
 
 1.  **Clone the repository:**
+
     ```bash
     git clone <repository-url>
     cd TetroWeb
@@ -43,6 +58,7 @@ The project is structured as a monorepo managed by `uv` workspaces. This approac
 
 2.  **Install Python dependencies:**
     Install all dependencies for the Python workspaces from the root directory.
+
     ```bash
     uv sync
     ```
@@ -85,18 +101,18 @@ The project is structured as a monorepo managed by `uv` workspaces. This approac
 
 The backend uses Alembic to manage database schema changes.
 
--   **Navigate to the backend directory:**
-    ```bash
-    cd projects/tetroweb-backend
-    ```
--   **Create a new migration:**
-    ```bash
-    alembic revision --autogenerate -m "Your migration message"
-    ```
--   **Apply migrations:**
-    ```bash
-    alembic upgrade head
-    ```
+- **Navigate to the backend directory:**
+  ```bash
+  cd projects/tetroweb-backend
+  ```
+- **Create a new migration:**
+  ```bash
+  alembic revision --autogenerate -m "Your migration message"
+  ```
+- **Apply migrations:**
+  ```bash
+  alembic upgrade head
+  ```
 
 ### Testing
 
