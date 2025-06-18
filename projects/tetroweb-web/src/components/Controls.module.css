@@ -1,0 +1,75 @@
+.controlsContainer {
+  display: none; /* 데스크톱에서는 기본적으로 숨김 */
+}
+
+/* 모바일 또는 터치 스크린에서만 컨트롤러를 표시 */
+@media (max-width: 768px), (hover: none) and (pointer: coarse) {
+  .controlsContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    z-index: 100;
+  }
+}
+
+.dPad {
+  display: grid;
+  grid-template-columns: 70px 70px 70px;
+  grid-template-rows: 70px;
+  grid-template-areas: "left down right";
+  gap: 15px;
+  align-items: center;
+  justify-items: center;
+}
+
+.actionButtons {
+  display: flex;
+  flex-direction: column-reverse; /* 회전 버튼을 위로 */
+  gap: 20px;
+  align-items: center;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 70px;
+  height: 70px;
+  background-color: rgba(255, 255, 255, 0.2);
+  border: 2px solid rgba(255, 255, 255, 0.4);
+  border-radius: 50%;
+  color: white;
+  font-size: 1rem;
+  font-weight: bold;
+  user-select: none; /* 텍스트 선택 방지 */
+  -webkit-user-select: none;
+  -webkit-tap-highlight-color: transparent; /* 탭 하이라이트 제거 */
+  text-align: center;
+}
+
+.button:active {
+  background-color: rgba(255, 255, 255, 0.4);
+  transform: scale(0.95);
+}
+
+.dPad .button:nth-child(1) { grid-area: left; }
+.dPad .button:nth-child(2) { grid-area: down; }
+.dPad .button:nth-child(3) { grid-area: right; }
+
+.actionButtons .rotate {
+  width: 80px;
+  height: 80px;
+  font-size: 1.2rem;
+}
+
+.actionButtons .hardDrop {
+  width: 60px;
+  height: 60px;
+  font-size: 0.8rem;
+} 

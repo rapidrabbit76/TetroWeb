@@ -1,0 +1,86 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  min-height: 100vh;
+  background-color: #282c34;
+  color: white;
+  font-family: 'Arial', sans-serif;
+}
+
+.gameInfo {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.gameInfo h1 {
+  font-size: 2.5em;
+  margin-bottom: 10px;
+  color: #61dafb;
+}
+
+.gameOver {
+  color: #ff6b6b;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.gameArea {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+}
+
+.nextBlockArea {
+  background-color: rgba(0, 0, 0, 0.2);
+  padding: 15px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.nextBlockArea h2 {
+  color: #61dafb;
+  margin-bottom: 10px;
+  font-size: 1.2em;
+}
+
+.controls {
+  margin-top: 20px;
+  padding: 15px;
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 8px;
+}
+
+.controls ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.controls li {
+  margin: 5px 0;
+  color: #61dafb;
+}
+
+.keyboardControls {
+  margin-top: 20px;
+  padding: 15px;
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 8px;
+}
+
+@media (max-width: 768px), (hover: none) and (pointer: coarse) {
+  .keyboardControls {
+    display: none;
+  }
+}
+
+.keyboardControls ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.keyboardControls li {
+  margin: 5px 0;
+  color: #61dafb;
+} 
